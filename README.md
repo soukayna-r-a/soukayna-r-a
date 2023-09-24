@@ -4,7 +4,7 @@
 <br>🔭I’m currently working on<br>
 🤝 I’m looking to collaborate on open source<br>
 💬 Ask me about ... Anything<br>
-🌱I’m currently learning React and SQL  js<br>
+🌱I’m currently learning React js and SQL <br>
 📫 How to reach me  soukaynaraisalawi@gmail.com<br>
 😄 Pronouns: She/Her<br>
 ⚡ Fun fact 
