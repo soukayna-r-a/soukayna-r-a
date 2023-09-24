@@ -1,4 +1,5 @@
 ### Hello World, I'm soukayna  👋
+A passionate full-stack web developer from Morocco
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 # 💫 About Me:
 <br>🔭I’m currently working on<br>
