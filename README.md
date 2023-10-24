@@ -2,11 +2,9 @@
 A passionate full-stack web developer from Morocco
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 # 💫 About Me:
-<br>🔭I’m currently working on<br>
 🤝 I’m looking to collaborate on open source<br>
 💬 Ask me about ... Anything<br>
 🌱I’m currently learning React js and SQL <br>
-📫 How to reach me  soukaynaraisalawi@gmail.com<br>
 😄 Pronouns: She/Her<br>
 ⚡ Fun fact 
 
