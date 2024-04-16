@@ -2,18 +2,12 @@
 A passionate full-stack web developer from Morocco
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 # 💫 About Me:
-🤝 I’m looking to collaborate on open source<br>
-💬 Ask me about ... Anything<br>
-🌱I’m currently learning React js and SQL <br>
-😄 Pronouns: She/Her<br>
-⚡ Fun fact 
-
 
 ## 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]
 <p align="left">
 <a href="https://linkedin.com/in/soukayna rais alawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soukayna rais alawi" height="30" width="40" /></a>
-<a href="https://instagram.com/soukayna_r_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soukayna_r_a_" height="30" width="40" /></a>
+
 </p>
 
 # 💻 Tech Stack:
